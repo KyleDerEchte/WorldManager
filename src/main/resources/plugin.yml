@@ -1,0 +1,10 @@
+name: Worldmanager
+version: ${project.version}
+main: de.kyleonaut.worldmanager.Worldmanager
+commands:
+  world:
+    aliasas:
+      - worldmanager
+    permission:
+      worldmanager.world:
+
